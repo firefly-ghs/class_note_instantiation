@@ -1,0 +1,2 @@
+# class_note_instantiation
+classA实例化classB并赋给一个变量，那么这个变量就可以用.来访问classB里面的函数了
